@@ -1,1 +1,1 @@
-web: gunicorn app:subplot
+web: gunicorn app:app
